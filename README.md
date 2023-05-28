@@ -164,12 +164,14 @@ Actionable Insights:
 • 38.58% orders are placed during afternoon, 34.29% during nighttime, 22.36% during morning and only 4.76% during dawn.
 • Most orders is from SP and the number of orders is also increasing over the months and year and least orders is from AC and RR. Overall there is rise in orders in all states over months.
 • SP has the maximum number of customers with 41.94% customers on the other hand RR has lowest number of customers which is only 0.05% of total customers.
-• The order value in 2018 is 138.66% more than 2017, which shows a huge increase in ecommerce economy.
+• The order value in 2018 is 138.66% more than 2017, which shows a huge increase in e-commerce economy.
 • Total order value is maximum in SP, but the highest mean price is from PB which is 191.48 and total order value is 115268.08 which is not even in top 10. This may be due to the high mean freight value that is 42.72 (second highest after RR). SP has the lowest mean freight value of 15.15 which maybe the reason for high number of orders from this region.
 • Average freight value and mean delivery time is highest in RR. Also, there is high mismatch between the estimated delivery time and actual delivery time. On the other hand, SP has lowest freight value and delivery time. This may be one of the reasons of high orders from SP and low orders from RR.
 • The highest mismatch between the estimated delivery time and the actual delivery time is in AC and this state also has low orders.
 • Most preferred mode of payment is by credit cards followed by UPI and least preferred is debit card, and this trend remains same over the months. The high use of credit card may be since with-it costumer has the option of installment instead of paying full amount. There is an overall increase in all type of payment modes over the months.
 • Customers prefer payment through installments and most opted number of installments is 1 (which is full payment). And the number of installments that the customers opted for is from 1 to 24. Most customers prefer to pay whole amount at once but there is a huge number of customers who prefer payment in installments.
+
+For output 1st 10 rows are checked.
 
 Recommendations:
 
